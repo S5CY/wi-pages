@@ -1,385 +1,364 @@
-title: Community Health Foundation
-hero:
-  headline: Exceptional Care for North San Diego County.
-  support_text: Palomar Health provides advanced medical care, emergency services, and community health programs to support the well-being of families across the region.
+title: "Poway Symphonic Orchestra"
 
-description: Supporting healthcare programs that improve lives across our community.
-mission_statement: We expand access to quality healthcare by funding local programs, prevention services, and patient support across our region.
-donate_link: /donate
-support_link: /donate
-impact_link: /capstone/palomarhealth/#impact
+hero:
+  headline: "Live Symphonic Music for North County Inland San Diego."
+  support_text: "The Poway Symphony Orchestra is a semi-professional orchestra that brings live classical performances, guest artists, and cultural enrichment to audiences across the region."
+
+description: "Supporting live orchestral music, music education, and cultural enrichment in Poway and nearby communities."
+mission_statement: "We make live classical symphonic music accessible to audiences and fellow performers in the communities and towns of North County Inland San Diego for their musical enjoyment and cultural and educational enrichment."
+donate_link: "/support/donor-and-sponsor-program"
+support_link: "/support/donor-and-sponsor-program"
+impact_link: "/capstone/powayorchestra/#impact"
 
 hero_actions:
-  - label: Find a Doctor
-    link: /find-a-doctor
-    variant: primary
-  - label: ER Wait Times / Check-In
-    link: /er-check-in
-    variant: secondary
-  - label: Our Locations
-    link: /locations
-    variant: secondary
-  - label: Patient Portal
-    link: /patient-portal
-    variant: secondary
+  - label: "View Concert Season"
+    link: "/concerts"
+    variant: "primary"
+  - label: "Buy Tickets"
+    link: "/concerts/tickets"
+    variant: "secondary"
+  - label: "Support the Orchestra"
+    link: "/support/donor-and-sponsor-program"
+    variant: "secondary"
+  - label: "Contact Us"
+    link: "/contact"
+    variant: "secondary"
 
 top_navigation:
-  - label: Services
-    link: "#programs"
-    variant: secondary
-    reveal: programs
-    submenu:
-      - label: Emergency and Trauma Care
-        link: /services/emergency-trauma
-      - label: Heart and Cardiovascular Care
-        link: /services/heart-cardiovascular
-      - label: Cancer Treatment
-        link: /services/cancer-care
-      - label: Orthopedic Surgery
-        link: /services/orthopedic-surgery
-      - label: Women's Health
-        link: /services/womens-health
-      - label: Rehabilitation Services
-        link: /services/rehabilitation
-      - label: Behavioral Health
-        link: /services/behavioral-health
-      - label: All Medical Services
-        link: /services
-        reveal: programs
-  - label: Locations
-    link: /locations
-    variant: secondary
-    submenu:
-      - label: Palomar Medical Center Escondido
-        link: /locations/escondido
-      - label: Palomar Medical Center Poway
-        link: /locations/poway
-      - label: Outpatient Centers
-        link: /locations/outpatient-centers
-      - label: Emergency Departments
-        link: /locations/emergency-departments
-      - label: Rehabilitation Institute
-        link: /locations/rehabilitation-institute
-      - label: Find a Location (Map)
-        link: /locations/map
-  - label: Patients & Visitors
-    link: "#patient-stories"
-    variant: secondary
-    reveal: patient-stories
-    submenu:
-      - label: ER Wait Times / Check-In
-        link: /er-check-in
-      - label: Schedule an Appointment
-        link: /appointments
-      - label: Pay Your Bill
-        link: /billing
-      - label: Insurance Information
-        link: /insurance
-      - label: Visiting Hours
-        link: /visiting-hours
-      - label: Medical Records
-        link: /medical-records
-      - label: Patient Stories
-        link: /stories
-        reveal: patient-stories
-  - label: Community
-    link: "#community-programs"
-    variant: secondary
-    reveal: community-programs
-    submenu:
-      - label: Community Programs
-        link: /community/programs
-        reveal: community-programs
-      - label: Camp HOPE
-        link: /community/camp-hope
-        reveal: community-programs
-      - label: Middle School M.D.
-        link: /community/middle-school-md
-        reveal: community-programs
-      - label: Community Events
-        link: /community/events
-        reveal: community-programs
-      - label: Health Education
-        link: /community/health-education
-        reveal: community-programs
-      - label: Community Impact
-        link: /community/impact
-        reveal: community-programs
-  - label: About
+  - label: "About"
     link: "#news-updates"
-    variant: secondary
-    reveal: news-updates
+    variant: "secondary"
+    reveal: "news-updates"
     submenu:
-      - label: About Palomar Health
-        link: /about
-      - label: Leadership
-        link: /about/leadership
-      - label: News and Updates
-        link: /news
-        reveal: news-updates
-      - label: Careers
-        link: /careers
-      - label: Awards and Recognition
-        link: /about/awards
-      - label: Annual Reports
-        link: /about/annual-reports
-  - label: Patient Sign In
-    link: /patient-sign-in/
-    variant: primary
-    nav_class: nav-patient-portal
+      - label: "Foundation"
+        link: "/about/foundation"
+      - label: "Mission"
+        link: "/about/mission"
+      - label: "News"
+        link: "/about/news"
+        reveal: "news-updates"
+      - label: "Repertoire"
+        link: "/about/repertoire"
+      - label: "Photo Gallery"
+        link: "/about/photo-gallery"
+
+  - label: "Concerts"
+    link: "#programs"
+    variant: "secondary"
+    reveal: "programs"
+    submenu:
+      - label: "2025-2026 Concert Season"
+        link: "/concerts"
+        reveal: "programs"
+      - label: "Tickets"
+        link: "/concerts/tickets"
+      - label: "Programs"
+        link: "/concerts/programs"
+      - label: "Videos"
+        link: "/concerts/videos"
+      - label: "Audio Recordings"
+        link: "/concerts/audio-recordings"
+
+  - label: "Support"
+    link: "#community-programs"
+    variant: "secondary"
+    reveal: "community-programs"
+    submenu:
+      - label: "Donor and Sponsor Program"
+        link: "/support/donor-and-sponsor-program"
+        reveal: "community-programs"
+      - label: "Volunteer"
+        link: "/support/volunteer"
+        reveal: "community-programs"
+      - label: "Acknowledgements"
+        link: "/support/acknowledgements"
+        reveal: "community-programs"
+
+  - label: "Musicians"
+    link: "#patient-stories"
+    variant: "secondary"
+    reveal: "patient-stories"
+    submenu:
+      - label: "Conductor and Music Director"
+        link: "/music-director"
+      - label: "Concertmaster"
+        link: "/musicians/concertmaster"
+      - label: "Guest Artists"
+        link: "/musicians/guest-artists"
+      - label: "Orchestra Membership"
+        link: "/musicians/orchestra-membership"
+      - label: "Musicians"
+        link: "/musicians"
+
+  - label: "Contact"
+    link: "/contact"
+    variant: "secondary"
+    submenu:
+      - label: "Subscribe"
+        link: "/contact/subscribe"
+      - label: "General Inquiries"
+        link: "/contact"
+
+  - label: "Buy Tickets"
+    link: "/concerts/tickets"
+    variant: "primary"
+    nav_class: "nav-buy-tickets"
     allow_navigation: true
-  - label: Find a Doctor
-    link: /find-a-doctor
-    variant: primary
-    nav_class: nav-find-doctor
+
+  - label: "Donate"
+    link: "/support/donor-and-sponsor-program"
+    variant: "primary"
+    nav_class: "nav-donate"
 
 homepage_spotlight:
-  overview: Palomar Health is the largest public healthcare district in California, serving North San Diego County through multiple hospitals and healthcare facilities.
+  overview: "Formed in 2004, the Poway Symphony Orchestra presents three symphonic concerts each year at the Poway Center for the Performing Arts and serves audiences across San Diego’s North County Inland region."
   metrics:
-    - value: "280-300"
-      label: Emergency department patients per day
-    - value: "70-90"
-      label: Ambulance arrivals each day
-    - value: "1,400"
-      label: Patients treated yearly at the rehabilitation institute
-    - value: "120"
-      label: Beds planned in the new behavioral health center
-  expansion_title: Growth in Progress
-  expansion_description: The system continues expanding its care footprint with a new 120-bed behavioral health center to support rising regional demand.
+    - value: "3"
+      label: "Symphonic concerts presented each year"
+    - value: "65"
+      label: "Musicians performing in the orchestra"
+    - value: "20+"
+      label: "Years of cultural enrichment in the region"
+    - value: "$25,000"
+      label: "Current matching gift challenge goal"
+  expansion_title: "A Stronger Future Through Community Support"
+  expansion_description: "Gifts, sponsorships, and volunteer support help sustain concerts, bring guest artists to the stage, and strengthen access to live classical music in Poway and nearby communities."
 
 homepage_gallery:
-  - file: palomarbuilding.jpg
-    alt: Palomar Health hospital exterior building view at dusk
-    caption: Regional care across multiple hospitals and healthcare facilities in North San Diego County.
-  - file: palomarstudents.jpg
-    alt: Students participating in a Palomar Health event indoors
-    caption: Student pathways and community engagement programs build the next generation of healthcare talent.
-  - file: palomarevents.jpg
-    alt: Youth participants in white coats at a healthcare learning activity
-    caption: Hands-on health education events connect young learners to real-world medical skills.
+  - file: "powayorchestra-stage.jpg"
+    alt: "Poway Symphony Orchestra performing live on stage"
+    caption: "Live symphonic performances bring classical music to audiences throughout North County Inland San Diego."
+  - file: "powaycenter-exterior.jpg"
+    alt: "Poway Center for the Performing Arts exterior"
+    caption: "The orchestra performs at the Poway Center for the Performing Arts in Poway, California."
+  - file: "powayorchestra-conductor.jpg"
+    alt: "Conductor leading the Poway Symphony Orchestra during rehearsal or performance"
+    caption: "Under the leadership of John LoPiccolo, the orchestra continues building artistic excellence and community connection."
 
 quick_patient_tools:
-  - title: Find a Doctor
-    description: Search providers by specialty, location, and care needs.
-    link: /find-a-doctor
-  - title: Schedule an Appointment
-    description: Request or manage appointments online in minutes.
-    link: /appointments
-  - title: ER Online Check-In
-    description: Start your emergency room check-in before arrival.
-    link: /er-check-in
-  - title: Pay Your Bill
-    description: Pay hospital and clinic bills securely online.
-    link: /billing
-  - title: Locations
-    description: Find hospitals, clinics, and care centers across the region.
-    link: /locations
-  - title: Patient Portal Login
-    description: Access appointments, records, and secure care communication.
-    link: /patient-portal
+  - title: "View Concert Schedule"
+    description: "See the current season lineup and upcoming performance dates."
+    link: "/concerts"
+  - title: "Buy Tickets"
+    description: "Purchase concert tickets through the Poway Center for the Performing Arts."
+    link: "/concerts/tickets"
+  - title: "Concert Programs"
+    description: "Access digital concert program materials from recent performances."
+    link: "/concerts/programs"
+  - title: "Donate"
+    description: "Support concerts, outreach, and the long-term future of the orchestra."
+    link: "/support/donor-and-sponsor-program"
+  - title: "Volunteer"
+    description: "Help support performances and orchestra operations through volunteer service."
+    link: "/support/volunteer"
+  - title: "Contact PSO"
+    description: "Reach the orchestra for general questions, media, or organizational information."
+    link: "/contact"
 
 community_impact_statistics:
-  - value: "500,000+"
-    label: Residents served in North San Diego County
-  - value: "900+"
-    label: Physicians and healthcare providers
-  - value: "2"
-    label: Major medical centers
-  - value: "75+"
-    label: Years serving the community
+  - value: "2004"
+    label: "Year the orchestra was formed"
+  - value: "2015"
+    label: "Year the foundation was established"
+  - value: "65"
+    label: "Musicians on stage at a high artistic level"
+  - value: "501(c)(3)"
+    label: "Non-profit foundation supporting the orchestra"
 
 photo_highlights:
-  - file: palomarstudents.jpg
-    alt: Students welcomed by Palomar Health team members at a community event
-    title: Community Welcome Events
-    description: Staff and volunteers engage students in healthcare pathways through mentorship, outreach, and campus experiences.
-  - file: palomarevents.jpg
-    alt: Youth participants practicing medical skills in a guided learning activity
-    title: Hands-On Learning Programs
-    description: Community workshops introduce real medical tools and preventive care concepts in interactive environments.
-  - file: palomarbuilding.jpg
-    alt: Exterior of a major Palomar Health facility serving North San Diego County
-    title: Regional Care Access
-    description: Modern facilities support emergency, rehabilitation, and behavioral health services for families across the region.
+  - file: "powayorchestra-stage.jpg"
+    alt: "Full orchestra performing a classical concert on stage"
+    title: "Mainstage Performances"
+    description: "The orchestra presents major symphonic works for local audiences in an accessible and welcoming concert setting."
+  - file: "powayorchestra-guestartist.jpg"
+    alt: "Guest soloist performing with orchestra accompaniment"
+    title: "Featured Guest Artists"
+    description: "PSO welcomes distinguished soloists whose performances expand the artistic reach of each season."
+  - file: "powaycenter-exterior.jpg"
+    alt: "Poway Center for the Performing Arts venue exterior"
+    title: "Regional Cultural Venue"
+    description: "Concerts at the Poway Center for the Performing Arts create a local home for live orchestral music and community gathering."
 
 impact_stats:
-  - value: "12,500+"
-    label: Patients helped through community-funded services
-  - value: "$2.4M"
-    label: Raised for local healthcare programs and outreach
-  - value: "18"
-    label: Programs supported for prevention, recovery, and education
+  - value: "3"
+    label: "Major concerts scheduled each season"
+  - value: "65"
+    label: "Musicians contributing to each orchestral performance"
+  - value: "20+"
+    label: "Years serving Poway and surrounding communities"
 
 patient_stories:
-  - title: Weight Loss Surgery Success - Charlene Patterson
-    summary: Charlene faced serious health challenges and low confidence before receiving gastric bypass surgery through Palomar Health.
+  - title: "Dvořák in America"
+    summary: "The orchestra opened its 2025-2026 season with an all-Dvořák program featuring Symphony No. 9 and the Cello Concerto with guest soloist Cello (Qiele) Guo."
     results:
-      - Lost about 100 pounds after surgery and follow-up support
-      - Completed a triathlon with swimming, biking, and running
-      - Built long-term habits through staff guidance and support groups
-    impact: This journey shows how coordinated care and recovery support can improve both physical health and emotional well-being.
-    link: /stories/charlene-patterson
-  - title: Advanced Wound Care Recovery - Cecilia DeFabio
-    summary: After surviving breast cancer, Cecilia developed a severe wound that required specialized intervention and close medical coordination.
+      - "Presented a major symphonic masterwork for regional audiences"
+      - "Featured an acclaimed guest soloist in a centerpiece concerto performance"
+      - "Opened the season with a program built around melody, heritage, and emotional depth"
+    impact: "Signature performances help strengthen the region’s access to high-quality live classical music."
+    link: "/concerts"
+
+  - title: "Mendelssohn Classics"
+    summary: "This March 2026 concert features Mendelssohn’s Symphony No. 5, the Violin Concerto, and Beethoven’s Overture to Fidelio with YuEun Gemma Kim as guest soloist."
     results:
-      - Received hyperbaric oxygen therapy to support tissue healing
-      - Restored blood flow that enabled a successful skin graft
-      - Benefited from a team-based care model focused on whole-patient recovery
-    impact: This case demonstrates how advanced technology and multidisciplinary care can help patients recover from complex complications.
-    link: /stories/cecilia-defabio
-  - title: Stroke Rehabilitation Recovery - David M.
-    summary: Following a stroke, David entered a multidisciplinary rehabilitation program focused on mobility, speech, and independence.
+      - "Continues the current season with a Romantic-era concert experience"
+      - "Brings guest artistry and orchestral repertoire together on one stage"
+      - "Offers audiences expressive and dramatic symphonic works in a local venue"
+    impact: "Carefully programmed concerts deepen cultural enrichment and audience engagement across the community."
+    link: "/concerts"
+
+  - title: "An American Celebration"
+    summary: "The May 2026 finale celebrates America’s 250th birthday with music by Copland, Gershwin, and Bernstein, highlighted by Rhapsody in Blue with pianist Dan Yu."
     results:
-      - Completed intensive physical and occupational therapy milestones
-      - Regained confidence with daily movement and communication
-      - Returned to family activities with improved independence
-    impact: Rehabilitation services helped restore function and quality of life during a critical recovery period.
-    link: /stories/david-stroke-recovery
+      - "Connects national history with iconic American symphonic music"
+      - "Showcases crossover appeal through one of the best-known concert works in the repertoire"
+      - "Closes the season with energy, familiarity, and broad audience appeal"
+    impact: "Season finales create memorable community events that invite both longtime patrons and new listeners into the concert hall."
+    link: "/concerts"
 
 community_voices:
-  - title: Camp HOPE Parent Reflection
-    story: A parent shared that Camp HOPE gave their child a rare sense of safety and belonging after prolonged family trauma. Through mentorship, team activities, and consistent follow-up events, the child became more confident at school and more engaged at home.
-    impact: Donor-funded trauma-informed programs can create stability for entire families, not only individual participants.
-  - title: Student Healthcare Pathway Story
-    story: A local middle school student entered the Middle School M.D. program uncertain about future goals, then discovered a passion for emergency care after CPR and first-aid simulations with clinical staff.
-    impact: Early exposure to healthcare careers helps students build purpose, practical skills, and long-term community commitment.
-  - title: Community Mentor Perspective
-    story: A volunteer mentor described how year-round outreach events connect youth with trusted adults and healthy peer networks, helping participants stay supported long after a single workshop or camp session ends.
-    impact: Sustained support models strengthen resilience and improve long-term outcomes across neighborhoods.
+  - title: "Audience Appreciation"
+    story: "For more than two decades, audiences from Poway and the wider North County Inland region have returned to hear live symphonic music performed close to home. The orchestra’s continued presence has helped make classical music a meaningful part of local cultural life."
+    impact: "Consistent access to live performance strengthens cultural identity and community connection."
+
+  - title: "Musician Opportunity"
+    story: "The orchestra welcomes qualified musicians of many ages and backgrounds, creating opportunities to perform serious symphonic literature in a high-quality ensemble setting. This supports both artistic growth and shared community participation."
+    impact: "Performance access helps musicians stay engaged, challenged, and connected through meaningful artistic work."
+
+  - title: "Volunteer and Donor Support"
+    story: "Volunteers, donors, and sponsors all play a role in sustaining concerts and organizational operations. Their support helps ensure that performances remain accessible and that the orchestra can continue serving the region year after year."
+    impact: "Community-backed arts organizations build long-term cultural value through shared investment and local stewardship."
 
 program_impact:
-  - title: Camp HOPE
-    audience: Children and teens who have experienced abuse or trauma
+  - title: "Mainstage Concert Season"
+    audience: "Community members, families, students, and classical music patrons across North County Inland San Diego"
     highlights:
-      - Week-long therapeutic summer camp experiences
-      - Mentorship and positive role-model relationships
-      - Confidence-building activities and year-round support events
-    outcome: Participants gain safety, confidence, and community support that help them move forward with hope.
-  - title: Middle School M.D.
-    audience: Local middle school students exploring healthcare careers
+      - "Three symphonic performances each year"
+      - "Concerts presented at the Poway Center for the Performing Arts"
+      - "Programs featuring major repertoire and guest soloists"
+    outcome: "Audiences gain local access to live orchestral music of high artistic quality without needing to travel outside the region."
+
+  - title: "Musician Participation and Growth"
+    audience: "Qualified musicians of varied ages, backgrounds, and experience levels"
     highlights:
-      - Hands-on medical workshops and first-aid training
-      - CPR and defibrillator practice with guided instruction
-      - Direct interaction with doctors, nurses, and healthcare staff
-    outcome: Students build practical skills and interest in healthcare careers that strengthen the future regional workforce.
+      - "Rehearsals held on Monday evenings"
+      - "Opportunities to perform Classical, Romantic, and Contemporary literature"
+      - "Special interest in expanding and strengthening string sections"
+    outcome: "The orchestra creates a strong artistic home for musicians while sustaining a vibrant performance tradition in the community."
 
 annual_impact_report:
-  period: 2025 Impact Highlights
-  funds_raised: "$2.4M raised from donors, events, and community partnerships"
+  period: "2025-2026 Season Highlights"
+  funds_raised: "Matching Gift Challenge active with donations matched dollar for dollar up to $25,000"
   programs_funded:
-    - Trauma-informed youth programs and mentorship
-    - Preventive care outreach and screenings
-    - Patient recovery support and specialty treatment assistance
+    - "Live symphonic concerts for North County Inland audiences"
+    - "Guest artist appearances and featured solo performances"
+    - "Ongoing orchestra operations, volunteer support, and artistic programming"
   community_outcomes:
-    - 12,500+ patients supported through funded programs and services
-    - Expanded student healthcare pathway participation across local schools
-    - Increased access to coordinated care for families facing medical crises
+    - "Continued access to three annual symphonic concerts in Poway"
+    - "Strong regional cultural enrichment through live classical music"
+    - "Expanded support for long-term artistic excellence and sustainability"
 
-donation_summary: Every contribution stays local and directly supports families, students, and patients who need timely access to care.
+donation_summary: "Every gift helps sustain live orchestral music, support artistic programming, and keep classical performance accessible in Poway and neighboring communities."
 
 donation_tiers:
   - amount: "$25"
-    description: Supports patient care supplies
+    description: "Helps support music library materials and concert supplies"
   - amount: "$100"
-    description: Supports community health programs
+    description: "Helps support rehearsal and performance operations"
   - amount: "$500"
-    description: Supports medical equipment
+    description: "Helps support guest artist programs and season production costs"
 
 donation_impact:
-  - title: Expand Preventive Care
-    description: Donations fund screenings, wellness education, and early intervention services that reduce long-term health risks.
-  - title: Strengthen Youth Programs
-    description: Community support keeps mentorship and healthcare career pathways available to students across our schools.
-  - title: Support Families in Crisis
-    description: Gifts help provide trauma-informed support, care coordination, and recovery resources when families need them most.
+  - title: "Sustain Live Performances"
+    description: "Donations help fund concert production, venue-related needs, and the resources required to present symphonic music at a high artistic level."
+  - title: "Strengthen Artistic Programming"
+    description: "Community support makes it possible to present major orchestral works, invite guest soloists, and plan inspiring seasonal repertoire."
+  - title: "Invest in Local Culture"
+    description: "Gifts help preserve a long-standing cultural institution that enriches Poway and surrounding communities through accessible live music."
 
 programs:
-  - title: Emergency and Trauma Care
-    image: toolkit-nav-buttons/studentmanagement.png
-    alt: Emergency and trauma care
-    description: 24/7 emergency response and trauma services for life-threatening conditions.
-    link: /services/emergency-trauma
+  - title: "2025-2026 Concert Season"
+    image: "toolkit-nav-buttons/studentmanagement.png"
+    alt: "Orchestra concert season"
+    description: "A full season of symphonic concerts featuring major works, guest soloists, and performances for the regional community."
+    link: "/concerts"
     points:
-      - Rapid triage and stabilization
-      - Specialized trauma teams
-      - Integrated emergency diagnostics
+      - "Three annual performances"
+      - "Professional-quality orchestral programming"
+      - "Local cultural enrichment through live music"
 
-  - title: Heart and Cardiovascular Care
-    image: toolkit-nav-buttons/studentgrader.png
-    alt: Heart and cardiovascular care
-    description: Comprehensive heart care including prevention, intervention, and recovery.
-    link: /services/heart-cardiovascular
+  - title: "Tickets and Subscriptions"
+    image: "toolkit-nav-buttons/studentgrader.png"
+    alt: "Tickets and subscriptions"
+    description: "Individual tickets and seasonal ticket opportunities help audiences plan and enjoy live performances throughout the year."
+    link: "/concerts/tickets"
     points:
-      - Cardiac diagnostics and imaging
-      - Interventional procedures
-      - Ongoing heart health management
+      - "Individual concert ticket access"
+      - "Seasonal seating opportunities"
+      - "Simple path to attending upcoming concerts"
 
-  - title: Cancer Treatment
-    image: toolkit-nav-buttons/studentmanagement.png
-    alt: Cancer treatment
-    description: Personalized oncology support with multidisciplinary care planning.
-    link: /services/cancer-care
+  - title: "Concert Programs"
+    image: "toolkit-nav-buttons/studentmanagement.png"
+    alt: "Digital concert programs"
+    description: "Archived and current program materials provide audiences with deeper context about repertoire, artists, and performances."
+    link: "/concerts/programs"
     points:
-      - Coordinated oncology specialists
-      - Treatment navigation support
-      - Recovery and survivorship resources
+      - "Program access by concert date"
+      - "Historical record of recent seasons"
+      - "Added educational value for listeners"
 
-  - title: Orthopedic Surgery
-    image: toolkit-nav-buttons/studentgrader.png
-    alt: Orthopedic surgery
-    description: Surgical and non-surgical care for joint, bone, and mobility conditions.
-    link: /services/orthopedic-surgery
+  - title: "Donor and Sponsor Program"
+    image: "toolkit-nav-buttons/studentgrader.png"
+    alt: "Donor and sponsor support"
+    description: "Donor and sponsor contributions help sustain the orchestra’s mission and future growth."
+    link: "/support/donor-and-sponsor-program"
     points:
-      - Joint and sports injury care
-      - Advanced surgical techniques
-      - Mobility-focused rehabilitation
+      - "Matching gift opportunities"
+      - "Tax-deductible nonprofit support"
+      - "Long-term investment in community arts"
 
-  - title: Women's Health
-    image: toolkit-nav-buttons/studentmanagement.png
-    alt: Women's health
-    description: Care across every stage of life, from preventive screenings to specialized treatment.
-    link: /services/womens-health
+  - title: "Volunteer Support"
+    image: "toolkit-nav-buttons/studentmanagement.png"
+    alt: "Volunteer support"
+    description: "Volunteers strengthen concerts and operations through direct service and community involvement."
+    link: "/support/volunteer"
     points:
-      - Preventive and reproductive care
-      - Maternity and postpartum services
-      - Breast and gynecologic support
+      - "Event and organizational support"
+      - "Community participation opportunities"
+      - "Shared investment in accessible arts"
 
-  - title: Rehabilitation Services
-    image: toolkit-nav-buttons/studentgrader.png
-    alt: Rehabilitation services
-    description: Physical, occupational, and speech therapy for recovery and long-term function.
-    link: /services/rehabilitation
+  - title: "Orchestra Membership"
+    image: "toolkit-nav-buttons/studentgrader.png"
+    alt: "Orchestra membership information"
+    description: "PSO provides qualified musicians with opportunities to perform symphonic literature in a collaborative ensemble setting."
+    link: "/musicians/orchestra-membership"
     points:
-      - Inpatient and outpatient therapy
-      - Personalized recovery plans
-      - Functional independence goals
+      - "Monday evening rehearsals"
+      - "Openings for additional string players"
+      - "High-level performance experience"
 
 news_updates:
-  - date: March 2026
-    title: Palomar Health Opens New Behavioral Health Facility
-    summary: Expanded behavioral health capacity improves timely access to specialized mental health services in the region.
-    link: /news/behavioral-health-facility
-  - date: February 2026
-    title: New Robotic Surgery Technology Introduced
-    summary: Advanced robotic-assisted capabilities enhance precision and support faster recovery in selected procedures.
-    link: /news/robotic-surgery-technology
-  - date: January 2026
-    title: Community Health Fair Supports Hundreds of Residents
-    summary: Free screenings, education, and wellness resources helped families access preventive care and local services.
-    link: /news/community-health-fair
+  - date: "November 2025"
+    title: "Poway Symphony Orchestra to Spotlight Cello Guo"
+    summary: "Local media coverage highlighted the orchestra’s season-opening Dvořák program featuring guest soloist Cello (Qiele) Guo."
+    link: "/about/news"
+  - date: "October 2025"
+    title: "John LoPiccolo Featured in Local TV Interview"
+    summary: "A televised interview brought broader attention to the orchestra’s mission, programming, and community presence."
+    link: "/about/news"
+  - date: "September 2025"
+    title: "Season Tickets Introduced for the First Time"
+    summary: "News coverage announced a new season ticket offering designed to deepen audience engagement and reward loyal patrons."
+    link: "/about/news"
 
 help:
-
-  - title: Donate
-    description: Your gifts fund healthcare programs and services.
-
-  - title: Volunteer
-    description: Join events and support community programs.
-
-  - title: Corporate Partnerships
-    description: Businesses can help expand healthcare access.
+  - title: "Donate"
+    description: "Your gift helps keep live symphonic music strong in Poway and nearby communities."
+  - title: "Volunteer"
+    description: "Support performances and operations through community service."
+  - title: "Sponsorship"
+    description: "Businesses and partners can help sustain regional arts access and visibility."
 
 contact:
-  address: 123 Health Ave, San Diego CA
-  email: info@foundation.org
-  phone: (000) 000-0000
+  address: "17650 Stagecoach Lane, Poway, CA 92064"
+  email: "info@powaysymphonyorchestra.org"
+  phone: "(208) 757-1980"
